@@ -1,0 +1,15 @@
+# Data artifacts
+data/
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
