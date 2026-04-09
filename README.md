@@ -51,9 +51,8 @@ To validate the product, I ran a user test with 10 bond investors. The goal was 
 4. This leads to a "Login Wall" (a Google Form acting as an intent trap to measure sign-ups).
 
 ### The Result
-* **0 out of 10 users reached the MLP goal (filling out the form).** ![Microsoft Clarity Heatmap](Bond_Starter_Project/Image_for_ReadME/Clarity_bond_vercel_Scroll-Mobile_04-09-2026 14 07.png)
+* **0 out of 10 users reached the MLP goal (filling out the form).** ![Microsoft Clarity Heatmap](Bond_Starter_Project/Image_for_ReadME/Clarity.png)
 *Heatmap showing user drop-off and behavior.*
-![Microsoft Clarity User Click](Bond_Starter_Project/Image_for_ReadME/Clarity_bond_vercel_Tap-Mobile_04-09-2026 14 07.png)
 
 ### The Insight & "The Why"
 Users bypassed the TRUE Co. analytics entirely. They went straight to the bond screening/login page, hit the Google Form, and bounced. 
