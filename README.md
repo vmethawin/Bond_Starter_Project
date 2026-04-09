@@ -1,6 +1,6 @@
 # 📈 Thai Bond Market Visualizer & Analytics (BondStarter)
 
-![End-to-End Workflow Diagram](Bond_Starter_Project/Image_for_ReadME/flow)
+![End-to-End Workflow Diagram](Bond_Starter_Project/Image_for_ReadME/flow.png)
 
 ## 📌 Project Overview
 **The Problem:** Many Thai retail investors buy corporate bonds based on surface-level factors—credit ratings, brand familiarity, virality, and advertised yield. However, they rarely analyze a company's underlying cash flow or default risk because financial statements are dense and complex. This knowledge gap exposes retail investors to unexpected wealth loss.
