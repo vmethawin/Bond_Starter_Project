@@ -29,7 +29,7 @@ This project spans the entire Product Management and Data Engineering lifecycle.
 * **Database Infrastructure:** Architected a Google BigQuery database designed for future scalability.
 * **Analytics & Visualization:** Built interactive dashboards using Power BI (DAX and data modeling).
 
-![Power BI Dashboard](path/to/your/powerbi-screenshot.png)
+![Power BI Dashboard](Bond_Starter_Project/Image_for_ReadME/Powerbi.png)
 
 ### 2. Product Management & Deployment
 * **UX/UI Design:** Mapped user journeys and designed the interface in Figma.
@@ -37,7 +37,7 @@ This project spans the entire Product Management and Data Engineering lifecycle.
 * **Deployment:** Hosted the live prototype on Vercel.
 * **Go-to-Market Test:** Launched a landing page in targeted Facebook groups for Thai bond investors to run a live user test with 10 initial participants, verifying insights with Facebook sentiment analysis.
 
-![Figma UI / Vercel Landing Page](path/to/your/ui-screenshot.png)
+![Figma UI / Vercel Landing Page](Bond_Starter_Project/Image_for_ReadME/Figma.png)
 
 ---
 
@@ -51,8 +51,9 @@ To validate the product, I ran a user test with 10 bond investors. The goal was 
 4. This leads to a "Login Wall" (a Google Form acting as an intent trap to measure sign-ups).
 
 ### The Result
-* **0 out of 10 users reached the MLP goal (filling out the form).** ![Microsoft Clarity Heatmap](path/to/your/heatmap-screenshot.png)
+* **0 out of 10 users reached the MLP goal (filling out the form).** ![Microsoft Clarity Heatmap](Bond_Starter_Project/Image_for_ReadME/Clarity_bond_vercel_Scroll-Mobile_04-09-2026 14 07.png)
 *Heatmap showing user drop-off and behavior.*
+![Microsoft Clarity User Click](Bond_Starter_Project/Image_for_ReadME/Clarity_bond_vercel_Tap-Mobile_04-09-2026 14 07.png)
 
 ### The Insight & "The Why"
 Users bypassed the TRUE Co. analytics entirely. They went straight to the bond screening/login page, hit the Google Form, and bounced. 
